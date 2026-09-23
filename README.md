@@ -14,6 +14,8 @@
 
 *(короткое название: `.knrc`)*
 
+**Русский** | [English](docs/README.en.md)
+
 [![Ubuntu 24.04](https://img.shields.io/github/actions/workflow/status/KrimsN/krimsnrc/test-ubuntu.yml?label=Ubuntu%2024.04&logo=ubuntu&logoColor=white&labelColor=E95420&style=flat)](https://github.com/KrimsN/krimsnrc/actions/workflows/test-ubuntu.yml)
 [![Debian 12](https://img.shields.io/github/actions/workflow/status/KrimsN/krimsnrc/test-debian.yml?label=Debian%2012&logo=debian&logoColor=white&labelColor=A81D33&style=flat)](https://github.com/KrimsN/krimsnrc/actions/workflows/test-debian.yml)
 [![Fedora Latest](https://img.shields.io/github/actions/workflow/status/KrimsN/krimsnrc/test-fedora.yml?label=Fedora%20Latest&logo=fedora&logoColor=white&labelColor=51A2DA&style=flat)](https://github.com/KrimsN/krimsnrc/actions/workflows/test-fedora.yml)
